@@ -9,6 +9,12 @@
 <p align="left"> <a href="https://twitter.com/yubrajjungthap1" target="blank"><img src="https://img.shields.io/twitter/follow/yubrajjungthap1?logo=twitter&style=for-the-badge" alt="yubrajjungthap1" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
+- 🎯 I like working on projects and will love to work.
+- 🌱 I am a programmer who is learning a lot and developing even while studying computer engineering.👨🏻‍💻
+- 😎 Introvert personality but extremely funny
+
+
+
 
 - 📫 How to reach me **thapayubraj12@gmail.com**
 

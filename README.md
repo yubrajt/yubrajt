@@ -12,6 +12,8 @@
 - 🎯 I like working on projects and will love to work.
 - 🌱 I am a programmer who is learning a lot and developing even while studying computer engineering.👨🏻‍💻
 - 😎 Introvert personality but extremely funny
+- ## 😜Here's a Joke for you:
+<img  src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
 

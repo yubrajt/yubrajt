@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yubraj</h1>
 <h3 align="center">A passionate learner from Nepal.</h3>
-<img align ="right" alt="Coding" width="400" src="https://media4.giphy.com/media/u1WhXLjwgcXpHJBMRM/200.webp?cid=ecf05e47wonucyqe72p1hyt1bexu97r7fvfxtcqdhn5uy1sf&rid=200.webp&ct=g">
+<img align ="center" alt="Coding" width="400" src="https://media4.giphy.com/media/u1WhXLjwgcXpHJBMRM/200.webp?cid=ecf05e47wonucyqe72p1hyt1bexu97r7fvfxtcqdhn5uy1sf&rid=200.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yubrajt&label=Profile%20views&color=0e75b6&style=flat" alt="yubrajt" /> </p>
 
